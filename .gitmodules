@@ -5,3 +5,6 @@
 [submodule "dissimilarities"]
 	path = dissimilarities
 	url = https://github.com/edelweiss611428/dissimilarities
+[submodule "rupturesRcpp"]
+	path = rupturesRcpp
+	url = https://github.com/edelweiss611428/rupturesrcpp
